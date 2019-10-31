@@ -12,7 +12,7 @@ const Home = ({ replace }) => {
 		<div className="home">
 			<Header />
 			<div className="content-page">
-				<div className="content-box">Content</div>
+				<div className="content-box">EAD React - Aprenda React sem sair de casa, com nosso ensino EAD</div>
 			</div>
 		</div>
 	);
